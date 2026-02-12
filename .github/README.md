@@ -3,7 +3,7 @@ A simple but adorable digital clock project where numbers are replaced with neko
 
 ## How to Use  
 Simply open `index.html` in your favorite web browser!  
-Or check out the live demo: [https://rendiqb.github.io/NekoClock/](https://bogdantalant.github.io/NekoClock/)  
+Or check out the live demo: [NekoClock](https://bogdantalant.github.io/NekoClock/)  
 
 ## About the Project  
 NekoClock started as a personal project born from boredom and the desire to recreate something similar—but entirely on my own. While I'm not entirely sure about its practical purpose, I hope someone might find it charming enough to:  
